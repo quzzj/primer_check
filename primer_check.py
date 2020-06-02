@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# Author: James Z.Z. Qu
 
 import time
 from Bio import SeqIO

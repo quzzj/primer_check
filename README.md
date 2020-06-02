@@ -1,2 +1,2 @@
 # primer_check
-Primer mutation analysis
+Refer to Step-by-Step Guide for the SARS-CoV-2 Primer Mutation Analysis.docx
